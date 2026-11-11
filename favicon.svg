@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OpeningsTrainer">
+  <rect width="64" height="64" rx="15" fill="#0095F8"/>
+  <path fill="#FFFFFF" d="M20 46l2-8c1-3 4-5 7-6l-3-2-7 3c-3 1-5-2-4-5l1-3 11-10 2-5 4 4c8 1 13 8 13 18v14z"/>
+  <circle cx="27.5" cy="21" r="2" fill="#0095F8"/>
+  <rect x="16" y="48" width="32" height="6" rx="2" fill="#F8A646"/>
+</svg>
